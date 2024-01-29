@@ -2,18 +2,29 @@
 
 Welcome to my GitHub repository! Here, you'll find a collection of projects I've worked on during my time at University of Texas at Arlington and personal projects of mine in the Computer Science field.
 
-## About Me
+## 🌟 About Me
 
-- **Name:** Ijaz Mohamed Umar
-- **University:** University of Texas at Arlington
-- **Graduation Year:** May 2024
-- **Interests:** Full Stack Devlopment, Artifical Intelligence, and Cloud Computing
-- **LinkedIn:** 
-- **Email:** ijazm2000@gmail.com
+### 👤 Name
+Ijaz Mohamed Umar
 
-## Skills
+### 🏫 University
+University of Texas at Arlington
 
-### Programming Languages and Frameworks
+### 🎓 Graduation Year
+May 2024
+
+### 💡 Interests
+- Full Stack Development
+- Artificial Intelligence
+- Cloud Computing
+
+### 🔗 LinkedIn
+[Your LinkedIn Profile URL](#)
+
+### 📧 Email
+ijazm2000@gmail.com
+
+## 🛠 Skills
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
