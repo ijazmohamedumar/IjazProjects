@@ -1,6 +1,6 @@
-# Ijaz Mohamed Umar - Project Portfolio
+# IJAZ MOHAMED UMAR - PROJECTS PORTFOLIO
 
-Welcome to my GitHub repository! Here, you'll find a collection of projects I've worked on during my time at University of Texas at Arlington and personal projects of mine in the Computer Science field.
+Welcome to my GitHub repository! Here, you'll find a collection of projects I've worked on at the University of Texas at Arlington and personal projects of mine in the Computer Science field.
 
 ## 🌟 About Me
 
@@ -14,12 +14,12 @@ University of Texas at Arlington
 May 2024
 
 ### 💡 Interests
-- Full Stack Development
-- Artificial Intelligence
-- Cloud Computing
+Full Stack Development
+Artificial Intelligence
+Cloud Computing
 
 ### 🔗 LinkedIn
-[Your LinkedIn Profile URL](#)
+[(https://www.linkedin.com/in/ijaz-mohamed-umar-85612313b/)](#)
 
 ### 📧 Email
 ijazm2000@gmail.com
@@ -42,8 +42,6 @@ ijazm2000@gmail.com
 ![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-blue?style=flat-square&logo=cloud)
 ![Full-Stack](https://img.shields.io/badge/-Full_Stack-purple?style=flat-square&logo=fullstack)
 
-### Other Skills
-
 ![Design](https://img.shields.io/badge/-Design-orange?style=flat-square&logo=design)
 ![Automation](https://img.shields.io/badge/-Automation-yellow?style=flat-square&logo=automation)
 ![Unit Testing](https://img.shields.io/badge/-Unit_Testing-red?style=flat-square&logo=testing)
@@ -63,8 +61,5 @@ ijazm2000@gmail.com
 ![Hive](https://img.shields.io/badge/-Hive-orange?style=flat-square&logo=hive)
 ![SOQL](https://img.shields.io/badge/-SOQL-blue?style=flat-square&logo=soql)
 
-## Additional Information
-
-Feel free to include any other information that you think might be relevant or interesting to people viewing your profile. This could include hackathons, workshops, certifications, or courses you've completed.
-
-
+## 🏆Certifications
+(AWS) Amazon Web Services - Developer Associate
