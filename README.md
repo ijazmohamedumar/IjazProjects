@@ -14,12 +14,12 @@ University of Texas at Arlington
 May 2024
 
 ### 💡 Interests
-Full Stack Development
-Artificial Intelligence
-Cloud Computing
+- Full Stack Development
+- Artificial Intelligence
+- Cloud Computing
 
 ### 🔗 LinkedIn
-[(https://www.linkedin.com/in/ijaz-mohamed-umar-85612313b/)](#)
+[LinkedIn](https://www.linkedin.com/in/ijaz-mohamed-umar-85612313b/)
 
 ### 📧 Email
 ijazm2000@gmail.com
@@ -41,6 +41,16 @@ ijazm2000@gmail.com
 ![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square&logo=oop)
 ![Cloud Computing](https://img.shields.io/badge/-Cloud_Computing-blue?style=flat-square&logo=cloud)
 ![Full-Stack](https://img.shields.io/badge/-Full_Stack-purple?style=flat-square&logo=fullstack)
+![.NET](https://img.shields.io/badge/-.NET-purple?style=flat-square&logo=dot-net)
+![C#](https://img.shields.io/badge/-C%23-blueviolet?style=flat-square&logo=c-sharp)
+![IAM](https://img.shields.io/badge/-IAM-orange?style=flat-square&logo=aws-iam)
+![Lambda](https://img.shields.io/badge/-Lambda-lightgrey?style=flat-square&logo=aws-lambda)
+![S3](https://img.shields.io/badge/-S3-blue?style=flat-square&logo=amazon-s3)
+![EC2](https://img.shields.io/badge/-EC2-yellow?style=flat-square&logo=amazon-ec2)
+![RDS](https://img.shields.io/badge/-RDS-orange?style=flat-square&logo=amazon-rds)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-green?style=flat-square&logo=amazon-dynamodb)
+![ECS](https://img.shields.io/badge/-ECS-blue?style=flat-square&logo=amazon-ecs)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-lightblue?style=flat-square&logo=amazon-cloudwatch)
 
 ![Design](https://img.shields.io/badge/-Design-orange?style=flat-square&logo=design)
 ![Automation](https://img.shields.io/badge/-Automation-yellow?style=flat-square&logo=automation)
@@ -61,5 +71,5 @@ ijazm2000@gmail.com
 ![Hive](https://img.shields.io/badge/-Hive-orange?style=flat-square&logo=hive)
 ![SOQL](https://img.shields.io/badge/-SOQL-blue?style=flat-square&logo=soql)
 
-## 🏆Certifications
-(AWS) Amazon Web Services - Developer Associate
+## 🏆 Certifications
+- (AWS) Amazon Web Services - Developer Associate
